@@ -1,0 +1,9 @@
+C:\Prog\manager\manager\manager\bin\Debug\manager.exe.config
+C:\Prog\manager\manager\manager\bin\Debug\manager.exe
+C:\Prog\manager\manager\manager\bin\Debug\manager.pdb
+C:\Prog\manager\manager\manager\obj\Debug\SimpleFileManager.Form1.resources
+C:\Prog\manager\manager\manager\obj\Debug\manager.Properties.Resources.resources
+C:\Prog\manager\manager\manager\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Prog\manager\manager\manager\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Prog\manager\manager\manager\obj\Debug\manager.exe
+C:\Prog\manager\manager\manager\obj\Debug\manager.pdb
